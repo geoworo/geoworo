@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! 
+
+I'm George, a developer currently located in Novosibirsk.
+I'm currently learning Java.
 
 <!--
 **geoworo/geoworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
