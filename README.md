@@ -1,7 +1,8 @@
 ### Hi! 
 
-I'm George, an amateur developer currently located in Novosibirsk.
-I'm learning Java.
+- I'm George. I currently reside in Novosibirsk, Siberia.
+- Learning Java is something that I've been focused on for a while now.
+- I have finished a couple of projects, repositories of which can be found below :)
 
 <!--
 **geoworo/geoworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
